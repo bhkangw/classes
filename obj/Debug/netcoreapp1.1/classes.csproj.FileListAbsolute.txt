@@ -1,0 +1,9 @@
+/Users/bkila/Desktop/classes/bin/Debug/netcoreapp1.1/classes.deps.json
+/Users/bkila/Desktop/classes/bin/Debug/netcoreapp1.1/classes.runtimeconfig.json
+/Users/bkila/Desktop/classes/bin/Debug/netcoreapp1.1/classes.runtimeconfig.dev.json
+/Users/bkila/Desktop/classes/obj/Debug/netcoreapp1.1/classes.csproj.CoreCompileInputs.cache
+/Users/bkila/Desktop/classes/obj/Debug/netcoreapp1.1/classes.AssemblyInfo.cs
+/Users/bkila/Desktop/classes/bin/Debug/netcoreapp1.1/classes.dll
+/Users/bkila/Desktop/classes/bin/Debug/netcoreapp1.1/classes.pdb
+/Users/bkila/Desktop/classes/obj/Debug/netcoreapp1.1/classes.dll
+/Users/bkila/Desktop/classes/obj/Debug/netcoreapp1.1/classes.pdb
